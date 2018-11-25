@@ -8,12 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      '"My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You
-must know that I am thinking of his marrying one of them.""',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      '“Now the Lord had prepared a great fish to swallow up Jonah.”'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
