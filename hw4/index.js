@@ -8,8 +8,8 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You
-must know that I am thinking of his marrying one of them.',
+      '"My dear Mr. Bennet,” replied his wife, “how can you be so tiresome! You
+must know that I am thinking of his marrying one of them.""',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
